@@ -2,7 +2,7 @@
         "name": "LemonDuck.001ac",
         "versions": {
                 "attack": "13",
-                "navigator": "4.8.2",
+                "navigator": "4.8.1",
                 "layer": "4.4"
         },
         "domain": "enterprise-attack",
